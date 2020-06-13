@@ -27,3 +27,26 @@ The Small and Large school size did not get affected at all.. The medium size wi
 # How does removing the ninth graders’ math and reading scores affected Scores by School Type:
 Average Math Score and Average Reading Score did not change. 
 The District school did not get affected but the charter schools got affected by 3 percentage points in Overall Passing Percentage and 4 percentage points in Passing Math percentage and Passing Reading Percentage
+
+# Dataframes in the Output
+I have displayed all the following dataframes
+1.District Summary
+2.School Summary
+3.High and Low Performing Schools
+4.Math and Reading Scores by Grade
+5.Scores by School Spending
+6.Scores by school size
+7.Scores by school type
+
+# Functions used
+I have used Mean, Sum, Count, Merge, format, cut, sort_values, map in my analysis.
+
+# Group by used
+I have used GroupBy to determe the following:
+1.Math and Reading Scores by Grade
+2.Scores by School Spending
+3.Scores by School Size ✓ Scores by School Type
+
+#Replaced both Reading and Math Scores 
+I have replaced both the reading and math scores for the 9th graders in THS with NaN.
+
