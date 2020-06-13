@@ -1,10 +1,10 @@
 # School_District_Analysis.
 
 # How is the district summary affected?
-#District Summary affected after 9th Grade math and reading scores for Thomas High School is replaced with NaN
-Average drops by 0.1 
-#Average reading scores doesn't change
-#%Passing math drops by 1:1 percentage points
+District Summary affected after 9th Grade math and reading scores for Thomas High School is replaced with NaN
+  Average drops by 0.1 
+  Average reading scores doesn't change
+  Passing math drops by 1:1 percentage points
 ✓ 
 
 How is the school summary affected?
